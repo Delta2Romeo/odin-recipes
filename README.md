@@ -1,2 +1,3 @@
 # odin-recipes
 Odin Project - "Foundations" Project: Recipes
+Currently working on the Recipes project from Odin, which is going to help reinforce both the Git and HTML basics that I have learned so far. By the end of this project, I should hopefully have a working knowledge of how to create new repositories in Git and clone them onto my local machine; use my command line add files to a directory, to access the text editor to edit files, and to stage, commit, and push files; to create a barebones webpage with HTML elements.
